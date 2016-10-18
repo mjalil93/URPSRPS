@@ -1,0 +1,111 @@
+﻿        html {
+             height: 100%;
+        }
+
+        body {
+             background-image: linear-gradient(90deg, #808080, #4c4c4c);
+             -webkit-background-size: cover;
+             -moz-background-size: cover;
+             -o-background-size: cover;
+             background-size: cover;
+             height: 100%;
+        }
+
+        .divHolder {
+        padding-top:25px;
+        padding-bottom:25px; 
+        background-image: linear-gradient(45deg, #b20000, #ff0000, #660000);
+        }
+
+        .h1Header {
+        float:left; 
+        font-size:28pt; 
+        color:white; 
+        font-weight:bolder;
+        text-align:center;
+        }
+
+        .imgLogo {
+        float:right;
+        }
+
+        .divLogin {
+         width:50%; 
+         background-image: linear-gradient(90deg, #b20000, #ff0000, #660000);
+        }
+
+        .divColoring {
+         background-image: linear-gradient(90deg, #b20000, #ff0000, #660000);
+        }
+
+        .lblInfoBig {
+        font-size:15pt; 
+        color:white;
+        margin:8px;
+        }
+
+        .lblInfoMedium {
+        font-size:13pt; 
+        color:white;
+        margin:8px;
+        }
+
+        .lblInfoSmall {
+        font-size:11pt; 
+        color:white;
+        margin:8px;
+        }
+
+        .btnMyStyle {
+        margin:10px;
+        background-color:#89172E;
+        color:white;
+        border: solid 1px white;
+        font-weight:bold;
+        }
+
+            .btnMyStyle:hover {
+                background-color:#9E1B34;
+                color:white;
+                text-decoration:underline;
+            }
+
+        .hlForgotPassword {
+            font-size:10pt;
+            color:#e5e5e5;
+            font-weight:bold;
+        }
+
+            .hlForgotPassword:hover {
+                color:white;
+                text-decoration:underline;
+            }
+
+        .lblWelcome {
+             margin:10px;
+             font-size:13pt;
+             color:white; 
+             float:left; 
+             font-weight:bold;
+        }
+
+       .lblSignOut {
+           margin:10px;
+           color:white;
+           text-decoration:underline;
+           font-size:13pt;
+           float:right; 
+           font-weight:bold;
+        }
+
+    .h2Title {
+        float:left;
+        margin:10px;
+        font-size:20pt;
+        color:white;
+        text-decoration:underline;
+    }
+
+.txtThanks {
+    color:lime;
+}
